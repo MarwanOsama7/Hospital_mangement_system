@@ -1,2 +1,2 @@
 # Hospital_mangement_system
-for a manage to  hospital 
+Desktop Application for a manage to  hospital 
